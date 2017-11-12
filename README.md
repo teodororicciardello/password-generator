@@ -1,3 +1,5 @@
+# Password Generator
+
 Exercise in python for a password generator starting from 2 words inserted by the user. 
 With the password, it will output an estimate of the entropy of the password.
 
